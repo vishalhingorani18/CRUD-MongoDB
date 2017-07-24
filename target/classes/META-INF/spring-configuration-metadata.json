@@ -1,0 +1,9 @@
+{
+  "groups": [{
+    "name": "application",
+    "sourceType": "com.vishal.test.config.ApplicationProperties",
+    "type": "com.vishal.test.config.ApplicationProperties"
+  }],
+  "hints": [],
+  "properties": []
+}
